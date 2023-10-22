@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "Jordan Y",
+      "price": 100.00,
+      "imgUrl": "/imgs/jordan1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jordan P",
+      "price": 87.00,
+      "imgUrl": "/imgs/jordan2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Jordan R",
+      "price": 94.00,
+      "imgUrl": "/imgs/jordan3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Jordan X",
+      "price": 105.00,
+      "imgUrl": "/imgs/jordan4.jpg"
+    }
+  ]
